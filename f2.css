@@ -1,7 +1,7 @@
-body{
+.body{
     background-image:url();
 }
-#area{
+.area{
     margin-left: auto;
     margin-right: auto;
     width: 30;
@@ -10,7 +10,7 @@ body{
     padding: 11px;
     margin-top: 5%;
 }
-#profile_img{
+.profile_img{
     width: 150px; ;
     height: 150px; ;
     border: 2px solid #6e819c;
@@ -19,9 +19,10 @@ body{
     margin-top: 5%;
 
 }
-#social{
+.social{
     width: 40px;
     height: 40px;
     border: 2px solid #97a3ae;
     border-radius: 50px;
 }
+
