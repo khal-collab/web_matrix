@@ -1,16 +1,19 @@
-.body{
-    background-image:url();
+body{
+    background-image:url(images/gold-blank-business-card-background-beautiful-elegant-illustration-graphic-art-design-image-237239576.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
-.area{
+#area{
     margin-left: auto;
     margin-right: auto;
-    width: 30;
+    width: 350px;
     text-align: center;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.45);
     padding: 11px;
     margin-top: 5%;
 }
-.profile_img{
+#profile_img{
     width: 150px; ;
     height: 150px; ;
     border: 2px solid #6e819c;
@@ -23,6 +26,7 @@
     width: 40px;
     height: 40px;
     border: 2px solid #97a3ae;
-    border-radius: 50px;
+    border-radius: 50%;
+    margin: 5px;
 }
 
